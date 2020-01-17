@@ -8,7 +8,7 @@ When the game is running the launcher gets unblocked and shuts itself down.
 Expected run time (msec) | 2 | 5 | 8 | 12 | 16 | 21 | 34 | 55
 ---
 
-3. *AVG TIME* 
+3. *AVG TIME* :
 2+7+15+27+43+64+98+153 = 409
 409/8=51.125
 
